@@ -13,4 +13,3 @@ A full-featured ToDo backend application built using **Spring Boot**, **Spring D
   - Thymeleaf (for optional server-side rendering)
 - **PostgreSQL** (as the database)
 - **Lombok** (for boilerplate-free model code)
-- **JUnit & Spring Boot Test** (for testing)
